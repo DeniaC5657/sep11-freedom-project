@@ -20,7 +20,7 @@ Common Symptom: (from https://www.webmd.com/mental-health/addiction/video-game-a
 8. Lying to people close to you about how much time you spend playing
 9. Using gaming to ease bad moods and feelings
 
-Video Game Addiction may seem to be a *"easy"* addiction to break but many have it without knowing it. Some evidence (from https://www.addictioncenter.com/drugs/video-game-addiction/)
+Video Game Addiction may seem to be a *"easy"* addiction to break but many have it without knowing it. Some evidence (from https://www.addictioncenter.com/drugs/video-game-addiction/) show the true struggles many players have.
 
 "Over 2 billion people play video games worldwide, and the market for video games is on track to become a $90 billion industry in America by 2020. The average gamer plays for about 6 hours every week. For most players of all ages, playing video games is a fun pastime – a way to relax, connect with friends, and enjoy a challenge. Unfortunately, for some players, a video game hobby can escalate into an addictive disorder which takes over their lives."
 
