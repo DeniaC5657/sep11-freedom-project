@@ -31,8 +31,6 @@ Some Example Code:
 
 A-Frame, is a amazing tool that could create amazing high-tech models, and I can't wait to continued working with A-Frame.
 
-<<<<<<< HEAD
+
 [Home](../README.md)
-=======
-[Home](../README.md)
->>>>>>> d09530bf7fa0b96b4f5043005888dad5466f95ed
+
