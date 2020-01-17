@@ -21,3 +21,4 @@ According to the Kotaku, “The modern PS4 controller, Xbox One controller, and 
 
 * [Blog Entry 1](entries/entry01.md)
 * [Blog Entry 2](entries/entry02.md)
+* [Blog Entry 3](entries/entry03.md)
