@@ -1,4 +1,4 @@
-# SEP11 Freedom Project
+ # SEP11 Freedom Project
 by Denia Casimiro
 
 ## Context
