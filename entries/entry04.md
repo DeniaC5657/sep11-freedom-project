@@ -1,3 +1,8 @@
+# Entry 4
+
+Tools: A-Frame (https://aframe.io/)
+Draft Model: (https://repl.it/repls/SubtleCreativeCharacter)
+
 This project is to make gamers feel more knowledgeable about their gaming time, making sure they have control over the controller. I’m pleased with my progress so far, as my code can automatically create a “simulating” based on common video game addicted gamers effects.
 Using code in A-Frame and learning the sizes and positions of the 3D shapes, base on this learning, I was able to create my best starter model, using basic 3D shapes to form a full model picture of ‘Video Game Addictions’
 
