@@ -2,9 +2,9 @@ This project is to make gamers feel more knowledgeable about their gaming time, 
 Using code in A-Frame and learning the sizes and positions of the 3D shapes, base on this learning, I was able to create my best starter model, using basic 3D shapes to form a full model picture of ‘Video Game Addictions’
 
 Example of codes:
-("<a-box position="0.5 0.5 -1.5" rotation="0 0 0" color="#b06151"></a-box>
-     <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
-     <a-box position="-0.5 0.5 -1.5" rotation="0 0 0" color="#b06151"></a-box>")
+("a-box position="0.5 0.5 -1.5" rotation="0 0 0" color="#b06151">/a-box>
+     a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E">/a-sphere>
+     a-box position="-0.5 0.5 -1.5" rotation="0 0 0" color="#b06151">/a-box>")
 The 3D shape is given a current position and location that is form onto and given a color.
 
 
