@@ -7,4 +7,5 @@ Addiction could affect a person's mental and physical health but most important 
 This view of addiction in the technology world could be as strong than any other drug, as we know, technology is everywhere. Literally. But we need to have control, we can’t let technology fully take over us, we need our time to breath peacefully without worrying about our smartphones. These graphics of the newest technology could make us the most easily addicted to these devices. It is small, compact, good graphic, and easy to search the web. 
 
 Overall, the website shows the truth and reality of addictions, using the information to know the help and truth about addictions. 
+
 [Home](../README.md)
